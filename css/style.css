@@ -28,7 +28,7 @@ body {
     box-shadow: inset 0 1px #bcebff;
 }
 
-.search-form_field {
+.search-form__field {
     width: 195px;
     background-color: #fff;
     border: 1px solid #74b5d1;
@@ -40,7 +40,7 @@ body {
     box-shadow: 0 1px 0 #bae9ff;
 }
 
-.search-btn_field {
+.search-form-btn {
     width: 20px;
     height: 18px;
     background-image: url(../img/search.png);
